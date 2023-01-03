@@ -3,24 +3,24 @@ project, which I make in 2 days.
 <br/>
 <br/>
 <br/>
-Tech Stack-:
--Html
--Javascript
--React
--ChakraUI
+Tech Stack-:<br/>
+-Html<br/>
+-Javascript<br/>
+-React<br/>
+-ChakraUI<br/>
 <br/>
-functionality-:
--Home Page
--Login Page
--Cart Page
--Privacy on app without login can't see data
+functionality-:<br/>
+-Home Page<br/>
+-Login Page<br/>
+-Cart Page<br/>
+-Privacy on app without login can't see data<br/>
 
 
 
-Home Page
-<img src="homepage.png"/>
-Login Page
-<img src="login.png"/>
-Cart Page
-<img src="Cartpage.png"/>
+Home Page<br/>
+<img src="homepage.png"/><br/>
+Login Page<br/>
+<img src="login.png"/><br/>
+Cart Page<br/>
+<img src="Cartpage.png"/><br/>
 
