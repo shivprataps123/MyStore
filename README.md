@@ -1,3 +1,4 @@
+
 It is a ecommerce website for clothing This is a Individual<br/>
 project, which I make in 2 days.
 <br/>
@@ -18,9 +19,9 @@ functionality-:
 
 
 Home Page
-<img src="./homepage.png"/>
+<img src="homepage.png"/>
 Login Page
-<img src="./login.png"/>
+<img src="login.png"/>
 Cart Page
-<img src="./Cartpage.png"/>
+<img src="Cartpage.png"/>
 
