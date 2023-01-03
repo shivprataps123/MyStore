@@ -18,9 +18,9 @@ functionality-:
 
 
 Home Page
-<img src="homepage.png"/>
+<img src="./homepage.png"/>
 Login Page
-<img src="login.png"/>
+<img src="./login.png"/>
 Cart Page
-<img src="Cartpage.png"/>
+<img src="./Cartpage.png"/>
 
