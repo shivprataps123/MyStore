@@ -1,6 +1,11 @@
 It is a ecommerce website for clothing This is a Individual<br/>
 project, which I make in 2 days.
 <br/>
+I have used reqres api so its<br/>
+email is-- eve.holt@reqres.in
+<br/>
+password--cityslicka
+<br/>
 <br/>
 <br/>
 Tech Stack-:<br/>
