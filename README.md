@@ -24,9 +24,9 @@ functionality-:<br/>
 
 
 Home Page
-<img src="./homepage.png"/>
+<img src="https://pbs.twimg.com/media/FQ79tdZXoAAYBOZ.jpg"/>
 Login Page
-<img src="./login.png"/>
+<img src="https://miro.medium.com/max/1400/1*v-qWjVkGMhtgHliFSoSJsw.png"/>
 Cart Page
-<img src="./Cartpage.png"/>
+<img src="https://pbs.twimg.com/media/FQ79IzWXEAAeKt8.jpg"/>
 
